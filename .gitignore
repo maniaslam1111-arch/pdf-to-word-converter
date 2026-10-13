@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+*.pdf
+*.docx
+.DS_Store
+Thumbs.db
